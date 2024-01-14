@@ -1,3 +1,6 @@
+# Universität Potsdam, Germany
+# Author: Gaurav Sablok
+# date: 2024-1-14
 """
 A set of functions for the estimation of the methylation and acetylation factors 
                 as outlined in the Pratx The EMBO Journal e113595 You can use this
