@@ -1,9 +1,5 @@
 # acetylation_factors
-A set of functions to estimate the acetylation factors and you can use for the multitude of genes. 
+A set of functions to estimate the acetylation factors and you can use for the multitude of genes. 202-1-14: Updating this with the support for the JAX and also a shell integration so that you can invoke the python code and it will perform all the histone analysis and will give you the acetylation factors. 
 
-Gaurav Sablok \
-ORCID: https://orcid.org/0000-0002-4157-9405 \
-WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
-RubyGems Published: https://rubygems.org/profiles/sablokgaurav \
-Python Packages Published : https://pypi.org/user/sablokgaurav/ \
-Crystal Profile: https://forum.crystal-lang.org/u/sablokgaurav/ \
+Gaurav Sablok
+Universität Potsdam, Germany
