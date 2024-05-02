@@ -2,7 +2,7 @@
 
 A set of functions to estimate the acetylation factors and you can use for the multitude of genes. 
 
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
